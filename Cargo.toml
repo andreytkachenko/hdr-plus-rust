@@ -1,0 +1,14 @@
+[package]
+name = "hdr-plus-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytemuck = "1.16.0"
+encase = "0.8.0"
+env_logger = "0.11.3"
+flume = "0.11.0"
+pollster = "0.3.0"
+rawloader = "0.37.1"
+thiserror = "1.0.61"
+wgpu = "0.20.1"
